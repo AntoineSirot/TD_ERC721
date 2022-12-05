@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
+    "@supercharge/strings": "^1.25.0",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "i": "^0.3.7",
+    "npm": "^9.1.2",
+    "truffle-plugin-verify": "^0.5.33"
+  },
+  "dependencies": {
+    "supercharge": "^1.0.0"
+  }
+}
