@@ -6,7 +6,7 @@ Welcome! This is my work on an automatic workshop. This repository contain my an
 
 ## How could you run my solution ? 
 
-To do so you just have to clone my repo and implement you private key and your infura key in the truffle-config.js file. WARNING don't forget that you should never share your private key especially in a GitHub repository !!
+This repo only contain my contracts. If you want to run it you can deploy them locally (with remix or ganache for example) or on a testnet (like Sepolia)
 
 ## How did I work on this TD
 ### Warning
